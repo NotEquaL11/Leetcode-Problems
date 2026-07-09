@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
