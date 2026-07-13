@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0561-array-partition) |
 ## Counting
 |  |
 | ------- |
@@ -35,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0283-move-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
