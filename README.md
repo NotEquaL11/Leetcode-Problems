@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
