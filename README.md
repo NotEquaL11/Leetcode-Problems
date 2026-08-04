@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [3731-find-missing-elements](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0169-majority-element) |
+| [3731-find-missing-elements](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [3731-find-missing-elements](https://github.com/NotEquaL11/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
